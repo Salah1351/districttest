@@ -1,0 +1,23 @@
+body{
+    background-color: #A4D478;
+}
+.card-text{
+    height: 10rem;
+}
+.card{
+    text-align: justify;
+    margin: 10%;
+}
+.btn-primary{
+    background-color: #378936;
+    border-color: #ffffff;
+}
+.btn-primary:hover{
+    background-color: #3eb93c;
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 15px #9dff00;
+}
+.card-img-top{
+    height: 10rem;
+}
