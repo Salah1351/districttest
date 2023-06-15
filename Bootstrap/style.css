@@ -2,11 +2,24 @@ body{
     background-color: #A4D478;
 }
 .card-text{
+    text-align: center;
     height: 10rem;
 }
 .card{
+    text-align: center;
+    width: 17rem;
     text-align: justify;
     margin: 10%;
+}
+.card-title{
+    font-size: 1.3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+    color: #378936;
+    text-align: center;
+}
+.card:hover{
+    box-shadow: 0px 0px 20px #498834;
+    transform: translate3d(0,-1px,0) scale(1.03);
 }
 .btn-primary{
     background-color: #378936;
